@@ -1,11 +1,16 @@
 _repo: Die-Harpyen-von-Madrit-oder-die-Postkutsche-Aus-dem-Spanischen-des-Verfassers-der-Donna-Rufin__54368
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54368-h/images/cover.jpg
 creator:
   author:
     agent_name: Solórzano, Alonso de Castillo
     gutenberg_agent_id: '47844'
     url: http://www.gutenberg.org/2009/agents/47844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54368#Die-Harpyen-von-Madrit-oder-die-Postkutsche-Aus-dem-Spanischen-des-Verfassers-der-Donna-Rufin_
 gutenberg_issued: '2017-03-15'
 gutenberg_type: Text
 identifiers:
